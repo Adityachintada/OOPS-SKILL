@@ -5,7 +5,7 @@ public class Narrowing {
 	    public static void main(String[] args) {
 	        Scanner sc = new Scanner(System.in);
 
-	        System.out.println("Enter a double value:");
+	        System.out.println("double value:");
 	        double d = sc.nextDouble();
 
 	        int i = (int) d;

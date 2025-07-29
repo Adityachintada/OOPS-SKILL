@@ -12,10 +12,10 @@ public class Wrapperclass {
 	        Character ct = c;
 	        Boolean bt = d;
 
-	        System.out.println("Integer object: " + it);
-	        System.out.println("Double object: " + dt);
-	        System.out.println("Character object: " + ct);
-	        System.out.println("Boolean object: " + bt);
+	        System.out.println("Integer: " + it);
+	        System.out.println("Double: " + dt);
+	        System.out.println("Character: " + ct);
+	        System.out.println("Boolean: " + bt);
 
 	        int nt = it;
 	        double nd = dt;

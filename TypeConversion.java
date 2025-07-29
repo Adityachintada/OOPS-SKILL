@@ -7,9 +7,9 @@ public class TypeConversion {
         long l = i;
         float f = l;
 
-        System.out.println("Int value: " + i);
-        System.out.println("Long value: " + l);
-        System.out.println("Float value: " + f);
+        System.out.println("Int: " + i);
+        System.out.println("Long: " + l);
+        System.out.println("Float: " + f);
         sc.close();
     }
 }
